@@ -1,6 +1,6 @@
 Steps to run the program:
 
-1) Unzip and import the project(CSP_Map_Coloring) in Eclipse (or any IDE that runs JAVA)
+1) Clone and import the project(CSP_Map_Coloring) in Eclipse (or any IDE that runs JAVA)
 
 2) Right click on the project-> Run As -> Java Application
 
